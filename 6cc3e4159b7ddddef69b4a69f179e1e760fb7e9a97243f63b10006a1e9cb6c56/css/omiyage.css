@@ -545,7 +545,7 @@ nav ul li.has-child.active::before{
 
 /* 中身 */
 .omiyage_text {
-    margin: 3% 20%;
+    margin: 3% 10% 0% 20%;
 }
 .section_omiyage {
   margin: 0 auto;
